@@ -15,39 +15,8 @@
 ---
 
 ## Screenshots
-
-> Click any image to view full size
-
-<table>
-<tr>
-<td width="33%" align="center">
-<b>Landing Page</b><br><br>
-<a href="screenshots/landingpage.png"><img src="screenshots/landingpage.png" alt="Landing Page" /></a>
-</td>
-<td width="33%" align="center">
-<b>User Dashboard</b><br><br>
-<a href="screenshots/dashboard.png"><img src="screenshots/dashboard.png" alt="Dashboard" /></a>
-</td>
-<td width="33%" align="center">
-<b>Auction Page</b><br><br>
-<a href="screenshots/auctionpage.png"><img src="screenshots/auctionpage.png" alt="Auction Page" /></a>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-<b>Auction Winner</b><br><br>
-<a href="screenshots/auctionwinner.png"><img src="screenshots/auctionwinner.png" alt="Auction Winner" /></a>
-</td>
-<td width="33%" align="center">
-<b>My Bids</b><br><br>
-<a href="screenshots/mybids.png"><img src="screenshots/mybids.png" alt="My Bids" /></a>
-</td>
-<td width="33%" align="center">
-<b>Admin Dashboard</b><br><br>
-<a href="screenshots/admindashboard.png"><img src="screenshots/admindashboard.png" alt="Admin Dashboard" /></a>
-</td>
-</tr>
-</table>
+<img width="1890" height="972" alt="Screenshot 2026-06-28 183015" src="https://github.com/user-attachments/assets/ba078f6b-fdfd-4744-84c6-b2cf0c69c630" />
+<img width="1906" height="977" alt="image" src="https://github.com/user-attachments/assets/cf8ba8a3-1171-4d2e-b5cc-0bf52424580d" />
 
 ---
 
