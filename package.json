@@ -1,0 +1,10 @@
+{
+  "name": "online-auction-system",
+  "version": "1.0.0",
+  "description": "Online Auction System - root runner",
+  "scripts": {
+    "dev": "start \"Server\" cmd /k \"cd server && npm run dev\" && start \"Client\" cmd /k \"cd client && npm run dev\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev"
+  }
+}
