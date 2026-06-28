@@ -6,17 +6,9 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-auction.ihavetech.com-indigo?style=for-the-badge&logo=googlechrome&logoColor=white)](https://auction.ihavetech.com)
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![License](https://img.shields.io/github/license/theavnishkumar/online-auction-system?style=flat-square)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blue?style=flat-square)
-![Issues](https://img.shields.io/github/issues/theavnishkumar/online-auction-system?style=flat-square)
-![Forks](https://img.shields.io/github/forks/theavnishkumar/online-auction-system?style=flat-square)
-![Stars](https://img.shields.io/github/stars/theavnishkumar/online-auction-system?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/theavnishkumar/online-auction-system?style=flat-square)
-
 **Create auctions · Bid in real-time · Manage everything from an admin panel**
 
-[Live Demo](https://auction.ihavetech.com) · [Report Bug](https://github.com/theavnishkumar/online-auction-system/issues) · [Request Feature](https://github.com/theavnishkumar/online-auction-system/issues) · [Architecture](./ARCHITECTURE.md) · [Learning Guide](./LEARNING_GUIDE.md) · [Backend Docs](./server/README.md) · [Frontend Docs](./client/README.md)
+[Live Demo](https://auction.ihavetech.com) · [Report Bug](https://github.com/akshitbansal/Online-Auction-System/issues) · [Request Feature](https://github.com/akshitbansal2005/online-auction-system/issues) · [Architecture](./ARCHITECTURE.md) · [Learning Guide](./LEARNING_GUIDE.md) · [Backend Docs](./server/README.md) · [Frontend Docs](./client/README.md)
 
 </div>
 
