@@ -68,7 +68,7 @@ Most auction system tutorials stop at basic CRUD. This project goes much further
 - **Smart UX** — Hover prefetching, View Transitions API, live countdown timers, auto-winner detection
 - **Deployment-ready** — CI/CD pipeline, Vercel serverless support, AWS EC2 with PM2, graceful shutdown
 
-> Built as a **Major Project for Computer Science Engineering** by [Avnish Kumar](https://github.com/theavnishkumar), designed to be a real-world reference for full-stack MERN development.
+> Built as a **Major Project** by [Akshit Bansal](https://github.com/akshitbansal2005), designed to be a real-world reference for full-stack MERN development.
 >
 > 📖 **New here?** Read the [Architecture Guide](./ARCHITECTURE.md) to understand how the system works, and the [Learning Guide](./LEARNING_GUIDE.md) to see what's implemented, why, and what you can build next.
 
